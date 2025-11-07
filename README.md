@@ -16,7 +16,7 @@ This repository contains code for reproducing the experiments and results from o
 
 ## Video Explanation of Our Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/--q76wondYM?si=0qXdOwz1edH94vFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/--q76wondYM/hqdefault.jpg)](https://www.youtube.com/watch?v=--q76wondYM)
 
 ## Repository Structure
 
