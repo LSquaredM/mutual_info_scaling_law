@@ -1,6 +1,6 @@
-# L²M: Mutual Information Scaling Law for Long-Context Language Modeling
+# (NeurIPS 2025) L²M: Mutual Information Scaling Law for Long-Context Language Modeling
 
-Official code repository for the paper "[L²M: Mutual Information Scaling Law for Long-Context Language Modeling](https://arxiv.org/abs/2503.04725)".
+Official code repository for the paper "[L²M: Mutual Information Scaling Law for Long-Context Language Modeling](https://neurips.cc/virtual/2025/loc/san-diego/poster/115721)".
 
 ## Overview
 
@@ -13,6 +13,10 @@ This repository contains code for reproducing the experiments and results from o
 <img src="figures/real_data_measurement.jpg" width="600px" alt="Mutual Information Scaling">
 
 *Figure 2: Illustration and estimates of the scalings of both bipartite and two-point mutual information.*
+
+## Video Explanation of Our Work
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--q76wondYM?si=0qXdOwz1edH94vFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Repository Structure
 
