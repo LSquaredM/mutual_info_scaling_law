@@ -14,7 +14,7 @@ This repository contains code for reproducing the experiments and results from o
 
 *Figure 2: Illustration and estimates of the scalings of both bipartite and two-point mutual information.*
 
-## Video Explanation of Our Work
+## High Level Video Explanation of Our Work
 
 [![Watch the video](https://img.youtube.com/vi/--q76wondYM/hqdefault.jpg)](https://www.youtube.com/watch?v=--q76wondYM)
 
